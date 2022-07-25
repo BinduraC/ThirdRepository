@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[testing sanity]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-21T12:29:31 IST" name="Suite" finished-at="2022-07-21T12:29:31 IST" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2022-07-21T12:29:31 IST" name="Test" finished-at="2022-07-21T12:29:31 IST" duration-ms="51">
+      <class name="com.mvncommands.SanityTest">
+        <test-method signature="sanityTesting()[pri:0, instance:com.mvncommands.SanityTest@73700b80]" started-at="2022-07-21T12:29:31 IST" name="sanityTesting" finished-at="2022-07-21T12:29:31 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[testing sanity]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sanityTesting -->
+      </class> <!-- com.mvncommands.SanityTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
