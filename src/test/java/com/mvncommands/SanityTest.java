@@ -8,6 +8,7 @@ public class SanityTest {
 	@Test
 	public void sanityTesting() {
 		Reporter.log("testing sanity", true);
+		System.out.println("new statement : ");
 	}
 
 }
