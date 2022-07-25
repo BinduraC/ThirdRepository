@@ -11,6 +11,8 @@ public class SendDataFromCmdTest {
 		String url = System.getProperty("URL");
 		Reporter.log(browser, true);
 		Reporter.log(url, true);
+		Reporter.log(browser, true);
+		Reporter.log(url, true);
 	}
 
 }
